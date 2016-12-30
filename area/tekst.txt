@@ -1,0 +1,13 @@
+Copyright 2008 PM
+
+
+Program liczy pola powierzchni ró¿nych figur.
+
+1. Najpierw nale¿y klikn¹æ na odpowiednie zdjêcie
+2. W nowym oknie nale¿y wpisaæ niezbêdne wymiary. 
+3. Klikn¹æ na przycisk "Licz"
+
+Uwaga:
+Jako wymiary nale¿y wpisywaæ tylko liczby naturalne. 
+
+Kopiowanie dozwolone tylko za zgod¹ autora.  :)
